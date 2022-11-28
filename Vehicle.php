@@ -56,7 +56,7 @@ class Vehicle{
 
 
 
-
+    
 }
 //declaration
 $maserati = new Vehicle('achchaimae');
